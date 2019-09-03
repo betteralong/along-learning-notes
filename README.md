@@ -12,7 +12,7 @@
 ### 第2篇 浴火重生篇
   *败逃借兵 前端提高篇*
 
-  - **第一章 屯土山关公约三事 --** [js es6 & 设计模式]([初认HTTP](https://github.com/betteralong/along-learning-notes/blob/master/source/design_pattern/index.md))
+  - **第一章 屯土山关公约三事 --** [js es6 & 设计模式](https://github.com/betteralong/along-learning-notes/blob/master/source/design_pattern/index.md)
   - **第二章 关云长挂印封金 -- Vue**
   - **第三章 会古城主臣聚义 -- Vue源码**
   - **第四章 玄德荆州依刘表 -- Vue-router源码**

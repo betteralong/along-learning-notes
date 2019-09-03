@@ -1,6 +1,6 @@
 ### 第1篇  基础篇
-1. [this、new、bind、call、apply]([初认HTTP](https://github.com/betteralong/along-learning-notes/blob/master/source/design_pattern/base/index.md))
-2. [闭包和高阶函数]([初认HTTP](https://github.com/betteralong/along-learning-notes/blob/master/source/design_pattern/base/index.md))
+1. [this、new、bind、call、apply](https://github.com/betteralong/along-learning-notes/blob/master/source/design_pattern/base/index.md)
+2. [闭包和高阶函数](https://github.com/betteralong/along-learning-notes/blob/master/source/design_pattern/base/index.md)
 3. es6的一些知识点
 4. 继承与原型链
 5. 设计原则
